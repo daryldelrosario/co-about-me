@@ -5,6 +5,6 @@ About me page describing my interests, hobbies, work and personal achievements. 
 <kbd><img src="co-about-me-ld.gif" alt="live demo gif"><kbd>
 
 ## Updates
-# Saturday, January 21, 2023 @ 152pm
+### Saturday, January 21, 2023 @ 152pm
 * Completed HTML only
 <kbd><img src="co-about-me-ld.gif" alt="live demo gif"><kbd>
